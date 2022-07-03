@@ -1,0 +1,37 @@
+h1{
+  color:blue;
+  font-size:250%
+}
+div{
+width:900px;
+margin-right:auto;
+margin-left:auto;
+}
+p{
+font-size:125%
+}
+h1,h2,h3,h4,li,footer{
+text-align: center;
+}
+li{
+list-style: none;
+width:46%;
+float:left;
+font-size: 125%;
+}
+ul:after{
+  content:"";
+  display:block;
+  clear:both;
+}
+header{
+  font-size:100%
+}
+footer{
+  margin-top: 60px
+}
+table{
+  width:1000px;
+font-size: 120%;
+}
+table, td, th { border: 2px #808080 solid; }
